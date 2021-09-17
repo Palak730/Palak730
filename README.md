@@ -29,7 +29,7 @@
   
             <h3>Professional Experience</h3>
   <h4> Fresher </h4>
-  </p>
+  
             <h3>Strenghts & Hobbies:</h3>
             <p>
             <ul>
@@ -49,8 +49,8 @@
                <li id="nationality">Nationality: Indian</li>
               <li id="gender">Gender: female</li>
               <li id="maritial status">Maritial Status: Unmarried</li>
-              </p>
-              <ul>
+         </ul>
+         </p>
   <h3>Other Information</h3>
             <p>
             <ul>
