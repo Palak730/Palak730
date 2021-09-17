@@ -26,7 +26,7 @@
                 <li>10th pass from CBSE board.</li>
        </ul>
             </p>
-  <p>
+  
             <h3>Professional Experience</h3>
   <h4> Fresher </h4>
   </p>
@@ -38,7 +38,8 @@
                 <li>
                 <span id="course-name">Languages Known:</span>English, Hindi</li>
                 <li>
-                <span id="course-name">Hobbies:</span>I love to search about fact & new technology ,reading  magazines, listening music, surfing Internet, self-learning through e-courses.</li> </ul>
+                <span id="course-name">Hobbies:</span>I love to search about fact & new technology ,reading  magazines, listening music, surfing Internet, self-learning through e-courses.</li>
+  </ul>
    </p>
             <h3>Personal Information:</h3>
             <p>
@@ -63,7 +64,7 @@
             <h3>Declaration</h3>
             <p>
             I hereby declare that the details furnished above are true and correct to the best of my knowledge and belief.</p>
-     </div>
+     
      <div id="footer"></div>
     </body>
 </html>
