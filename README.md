@@ -12,7 +12,7 @@
   <h3 id="address">Add-Chauhan patti,Sonia Vihar,Delhi-110094</h3>
   <br>
   <h3 id ="mobile no"> Mob-8826976470</h3>
-         <a href="mailto:palaksrivastava1606@gmail.com" target="_blank"><p> id="email"palaksrivastava1606@gmail.com</p></a>
+         <a href="mailto:palaksrivastava1606@gmail.com" target="_blank"><p id="email">palaksrivastava1606@gmail.com</p></a>
      </div>
      <div class="left">
      </div>
