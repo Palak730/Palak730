@@ -20,7 +20,7 @@
             <h3>ACADEMIC QUALIFICATION</h3>
             <p>
             <ul>
-                <li>Currently pursuing BVOC Web Designing from Kalindi College (Delhi university)</li<br>
+                <li>Currently pursuing BVOC Web Designing from Kalindi College (Delhi university)</li><br>
               <li>Completed English Speaking Course from Freedom Employability Academy.</li <br>  <li>12th pass from CBSE board.</li<br>
                 <li>10th pass from CBSE board.</li></ul>
             </p>
