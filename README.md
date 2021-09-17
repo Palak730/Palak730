@@ -26,7 +26,7 @@
             </p>
             <h3>Professional Experience</h3>
   <h4> Fresher </h4>
-           
+  </p>  
             <h3>Strenghts & Hobbies:</h3>
             <p>
             <ul>
