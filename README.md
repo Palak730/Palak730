@@ -9,10 +9,10 @@
 <div id="header">
 <h3 id="name">Palak Srivastava</h3>
   <br>
-  <l2 id="address">Add-Chauhan patti,Sonia Vihar,Delhi-110094</l2>
+  <h3 id="address">Add-Chauhan patti,Sonia Vihar,Delhi-110094</h3>
   <br>
-  <l3 id ="mobile no"> Mob-8826976470</l3>
-         <a href="mailto:palaksrivastava1606@gmail.com" target="_blank"><p id="email">palaksrivastava1606@gmail.com</p></a>
+  <h3 id ="mobile no"> Mob-8826976470</h3>
+         <a href="mailto:palaksrivastava1606@gmail.com" target="_blank"><p> id="email"palaksrivastava1606@gmail.com</p></a>
      </div>
      <div class="left">
      </div>
@@ -21,14 +21,15 @@
             <p>
             <ul>
                 <li>Currently pursuing BVOC Web Designing from Kalindi College (Delhi university)</li><br>
-              <li>Completed English Speaking Course from Freedom Employability Academy.</li <br> 
+              <li>Completed English Speaking Course from Freedom Employability Academy.</li> <br> 
               <li>12th pass from CBSE board.</li><br>
                 <li>10th pass from CBSE board.</li>
        </ul>
             </p>
+  <p>
             <h3>Professional Experience</h3>
   <h4> Fresher </h4>
-  </p>  
+  </p>
             <h3>Strenghts & Hobbies:</h3>
             <p>
             <ul>
